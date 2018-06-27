@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 **Describe any challenges encountered while building the app.**
 
+It was a challenge trying to understand how Activities communicated with each other. However, through Intent's implemenetation, we were able to create communication channel between Activities.  
 
 
 ## License
